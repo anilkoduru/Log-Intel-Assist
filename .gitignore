@@ -1,3 +1,15 @@
 .env
-venv
-HDFS_v1/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+chroma_db/
+unparsed_lines.log
+HDFS_v1/HDFS.log
+.DS_Store
+*.log
